@@ -1,0 +1,5 @@
+crm_data.json
+_pycache_/
+env/
+..gitignore.swp
+all_output.txt
